@@ -10,3 +10,9 @@ zhegexingbake*coffe* and *milk*
 6668888yangqi ***coffe*** and ***milk***
 https://pic.nximg.cn/file/20230517/11949215_143004845103_2.jpg
 ![dogdog](https://pic.nximg.cn/file/20230517/11949215_143004845103_2.jpg)
+[dogdog](https://pic.nximg.cn/file/20230517/11949215_143004845103_2.jpg)
+## my shopping list
+- dog
+- cat
+- lion
+- brid
